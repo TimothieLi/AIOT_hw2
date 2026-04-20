@@ -1,0 +1,1059 @@
+{
+    "北部": [
+        {
+            "locationName": "臺北市",
+            "MinT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "23",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "23",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "20",
+                        "parameterUnit": "C"
+                    }
+                }
+            ],
+            "MaxT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "26",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "25",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "23",
+                        "parameterUnit": "C"
+                    }
+                }
+            ]
+        },
+        {
+            "locationName": "新北市",
+            "MinT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "23",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "23",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "21",
+                        "parameterUnit": "C"
+                    }
+                }
+            ],
+            "MaxT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "26",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "25",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "23",
+                        "parameterUnit": "C"
+                    }
+                }
+            ]
+        },
+        {
+            "locationName": "基隆市",
+            "MinT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "22",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "22",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "20",
+                        "parameterUnit": "C"
+                    }
+                }
+            ],
+            "MaxT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "25",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "23",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "22",
+                        "parameterUnit": "C"
+                    }
+                }
+            ]
+        },
+        {
+            "locationName": "桃園市",
+            "MinT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "22",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "22",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "20",
+                        "parameterUnit": "C"
+                    }
+                }
+            ],
+            "MaxT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "26",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "25",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "23",
+                        "parameterUnit": "C"
+                    }
+                }
+            ]
+        },
+        {
+            "locationName": "新竹縣",
+            "MinT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "22",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "22",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "20",
+                        "parameterUnit": "C"
+                    }
+                }
+            ],
+            "MaxT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "25",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "26",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "24",
+                        "parameterUnit": "C"
+                    }
+                }
+            ]
+        },
+        {
+            "locationName": "新竹市",
+            "MinT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "22",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "22",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "20",
+                        "parameterUnit": "C"
+                    }
+                }
+            ],
+            "MaxT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "25",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "26",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "24",
+                        "parameterUnit": "C"
+                    }
+                }
+            ]
+        }
+    ],
+    "中部": [
+        {
+            "locationName": "苗栗縣",
+            "MinT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "21",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "21",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "20",
+                        "parameterUnit": "C"
+                    }
+                }
+            ],
+            "MaxT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "25",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "27",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "24",
+                        "parameterUnit": "C"
+                    }
+                }
+            ]
+        },
+        {
+            "locationName": "臺中市",
+            "MinT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "23",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "23",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "22",
+                        "parameterUnit": "C"
+                    }
+                }
+            ],
+            "MaxT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "27",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "26",
+                        "parameterUnit": "C"
+                    }
+                }
+            ]
+        },
+        {
+            "locationName": "彰化縣",
+            "MinT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "22",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "22",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "21",
+                        "parameterUnit": "C"
+                    }
+                }
+            ],
+            "MaxT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "26",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "28",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "26",
+                        "parameterUnit": "C"
+                    }
+                }
+            ]
+        },
+        {
+            "locationName": "南投縣",
+            "MinT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "22",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "22",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "21",
+                        "parameterUnit": "C"
+                    }
+                }
+            ],
+            "MaxT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "27",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "26",
+                        "parameterUnit": "C"
+                    }
+                }
+            ]
+        },
+        {
+            "locationName": "雲林縣",
+            "MinT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "22",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "22",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "21",
+                        "parameterUnit": "C"
+                    }
+                }
+            ],
+            "MaxT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "27",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "26",
+                        "parameterUnit": "C"
+                    }
+                }
+            ]
+        }
+    ],
+    "南部": [
+        {
+            "locationName": "嘉義縣",
+            "MinT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "22",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "22",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "21",
+                        "parameterUnit": "C"
+                    }
+                }
+            ],
+            "MaxT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "26",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "26",
+                        "parameterUnit": "C"
+                    }
+                }
+            ]
+        },
+        {
+            "locationName": "嘉義市",
+            "MinT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "21",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "21",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "21",
+                        "parameterUnit": "C"
+                    }
+                }
+            ],
+            "MaxT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "27",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "30",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "26",
+                        "parameterUnit": "C"
+                    }
+                }
+            ]
+        },
+        {
+            "locationName": "臺南市",
+            "MinT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "23",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "23",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "23",
+                        "parameterUnit": "C"
+                    }
+                }
+            ],
+            "MaxT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "27",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "27",
+                        "parameterUnit": "C"
+                    }
+                }
+            ]
+        },
+        {
+            "locationName": "高雄市",
+            "MinT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "24",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "24",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "25",
+                        "parameterUnit": "C"
+                    }
+                }
+            ],
+            "MaxT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "28",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "28",
+                        "parameterUnit": "C"
+                    }
+                }
+            ]
+        },
+        {
+            "locationName": "屏東縣",
+            "MinT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "23",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "23",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "23",
+                        "parameterUnit": "C"
+                    }
+                }
+            ],
+            "MaxT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "31",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "28",
+                        "parameterUnit": "C"
+                    }
+                }
+            ]
+        }
+    ],
+    "東北部": [
+        {
+            "locationName": "宜蘭縣",
+            "MinT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "23",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "22",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "20",
+                        "parameterUnit": "C"
+                    }
+                }
+            ],
+            "MaxT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "25",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "24",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "22",
+                        "parameterUnit": "C"
+                    }
+                }
+            ]
+        }
+    ],
+    "東部": [
+        {
+            "locationName": "花蓮縣",
+            "MinT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "22",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "22",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "21",
+                        "parameterUnit": "C"
+                    }
+                }
+            ],
+            "MaxT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "26",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "26",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "24",
+                        "parameterUnit": "C"
+                    }
+                }
+            ]
+        }
+    ],
+    "東南部": [
+        {
+            "locationName": "臺東縣",
+            "MinT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "23",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "23",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "23",
+                        "parameterUnit": "C"
+                    }
+                }
+            ],
+            "MaxT": [
+                {
+                    "startTime": "2026-04-17 18:00:00",
+                    "endTime": "2026-04-18 06:00:00",
+                    "parameter": {
+                        "parameterName": "27",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 06:00:00",
+                    "endTime": "2026-04-18 18:00:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2026-04-18 18:00:00",
+                    "endTime": "2026-04-19 06:00:00",
+                    "parameter": {
+                        "parameterName": "26",
+                        "parameterUnit": "C"
+                    }
+                }
+            ]
+        }
+    ]
+}
