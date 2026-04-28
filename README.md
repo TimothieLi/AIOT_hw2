@@ -2,6 +2,9 @@
 
 這是一個天氣預報資料的爬取與視覺化專案，使用中央氣象署 (CWA) API 獲取台灣北部、中部、南部、東北部、東部及東南部地區一週的天氣預報資料。專案會對取得的 JSON 格式資料進行解析，儲存為 CSV 與 SQLite 資料庫中，最後透過 Streamlit 網頁應用程式與 Folium 動態地圖介面進行互動式視覺化。
 
+🚀 **線上展示 (Live Demo)**: [https://aiothw2.streamlit.app](https://aiothw2.streamlit.app)
+
+
 ## 專案成果展示
 ![Streamlit 成果截圖](demo.png)
 
