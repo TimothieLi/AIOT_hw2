@@ -45,6 +45,9 @@ def main():
     st.title("⛅ Taiwan 7-Day Weather Forecast Viewer")
     st.markdown("This dashboard reads data generated dynamically from **weather.db**.")
 
+    # Pre-fetch regions to ensure availability across columns
+    all_regions = get_regions()
+
     # Apply columns for Left-Right layout
     col1, col2 = st.columns([1.2, 1])
     
@@ -57,15 +60,14 @@ def main():
         m = folium.Map(location=[23.6978, 120.9605], zoom_start=7, tiles='CartoDB positron')
         
         # Plot markers to denote each active region
-        all_regions = get_regions()
         for r_name in all_regions:
             if r_name in REGION_COORDS:
                 # Basic colored markers
                 folium.Marker(
                     location=REGION_COORDS[r_name],
-                    popup=folium.Popup(f"<b>{r_name}</b>", max_width=200),
+                    popup=r_name,
                     tooltip=f"Click to zoom: {r_name}",
-                    icon=folium.Icon(color="blue", icon="cloud")
+                    icon=folium.Icon(color="blue", icon="info-sign")
                 ).add_to(m)
                 
         # Render the Folium mapping embedded
